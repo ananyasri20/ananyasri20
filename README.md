@@ -109,25 +109,32 @@ A MERN-based application for event booking with authentication and administratio
 
 ---
 
-## 📊 GitHub Analytics
+
+## 📈 My Contribution Journey
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ananyasri20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ananya's GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyasri20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=ananyasri20&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyasri20&theme=tokyonight" width="95%" alt="GitHub Contribution Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyasri20&theme=tokyonight" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
 
 ---
+
+## 🌱 Currently Learning
+
+- 🤖 AI/ML and data processing
+- ⚡ High-Performance Computing (HPC)
+- 🐍 Python, Linux, and SQL
+- 🧠 Data Structures and Algorithms
+- 🛠️ Building and improving full-stack applications
+
+## 🎯 What I'm Working Towards
+
+- Building practical, real-world software projects
+- Strengthening backend development and database skills
+- Improving problem-solving and coding fundamentals
+- Contributing more consistently to GitHub
+
 
 ## 💼 Experience
 
