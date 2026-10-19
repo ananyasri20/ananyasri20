@@ -1,70 +1,131 @@
-# Hi there, I'm Ananya Srivastava 👋
+<!-- HEADER -->
+<div align="center">
 
-### Aspiring Software Developer | Full-Stack Developer | AI/ML & HPC Learner
+# 👋 Hi, I'm Ananya Srivastava
 
-I'm a Computer Science and Engineering graduate passionate about building scalable web applications, developing REST APIs, and solving real-world problems through technology.
+### 💻 Aspiring Software Developer | Full-Stack Developer | AI/ML Learner
 
-- 🌱 Learning **AI/ML, High-Performance Computing (HPC), Python, Linux, SQL, and DSA** at C-DAC, Noida
-- 💻 Experienced in **React.js, Node.js, Express.js, MongoDB, and REST APIs**
-- 🤝 Interested in collaborating on full-stack web development and software engineering projects
-- 📍 Based in Noida, Uttar Pradesh, India
-- 📫 Email: **ananyasri2044@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Real-World+Applications;Learning+AI%2FML+%26+HPC" alt="Typing SVG" />
+
+<p>
+  <a href="https://github.com/ananyasri20">
+    <img src="https://img.shields.io/badge/GitHub-ananyasri20-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:ananyasri2044@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://eventora-fnn2.onrender.com/">
+    <img src="https://img.shields.io/badge/Live%20Project-Eventora-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Eventora"/>
+  </a>
+</p>
+
+📍 Noida, India &nbsp; • &nbsp; 🎓 B.Tech CSE Graduate &nbsp; • &nbsp; 🚀 Always Learning
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ About Me
 
-**Languages**
+I'm a Computer Science graduate who enjoys building responsive web applications, designing REST APIs, and turning ideas into practical software solutions.
 
-Java · JavaScript · Python · SQL · C++
+- 🔭 Currently developing **TrackFlow**, a real-time fleet and delivery tracking application.
+- 🌱 Learning **AI/ML, High-Performance Computing (HPC), Python, Linux, SQL, and DSA** at C-DAC, Noida.
+- 💼 Previously worked as a Full-Stack Development Intern at **Infosys Springboard**.
+- 🧩 Interested in full-stack engineering, backend development, and scalable applications.
+- 🎯 Goal: Build impactful products and grow as a software developer.
 
-**Frontend Development**
+---
 
-React.js · HTML5 · CSS3 · Tailwind CSS · Responsive Design · EJS
+## 🧰 Tech Stack
 
-**Backend Development**
+<div align="center">
 
-Node.js · Express.js · REST APIs · Socket.IO · JWT Authentication
+### Programming Languages
 
-**Databases**
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp" alt="Java, JavaScript, Python and C++"/>
 
-MongoDB · MySQL
+### Frontend Development
 
-**Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="React, HTML, CSS and Tailwind"/>
 
-Git · GitHub · Linux · VS Code · Postman · Jupyter Notebook · Render · Vercel
+### Backend & Databases
 
-**Core Computer Science**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB and MySQL"/>
 
-Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,vercel" alt="Git, GitHub, Linux, VS Code, Postman and Vercel"/>
+
+</div>
+
+**Also familiar with:** REST APIs, Socket.IO, JWT authentication, EJS, SQL, DBMS, OOP, Operating Systems, and Data Structures & Algorithms.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. TrackFlow – Real-Time Fleet & Delivery Tracking
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A real-time fleet tracking dashboard designed to monitor driver locations and manage deliveries.
+### 🚚 TrackFlow
 
-- Implemented live GPS tracking using Socket.IO and Leaflet.
-- Built delivery creation, status updates, driver connection management, and dashboard statistics.
-- Developed the application using Node.js, Express.js, EJS, JavaScript, HTML, and CSS.
+**Real-Time Fleet & Delivery Tracking**
 
-**Tech Stack:** Node.js · Express.js · Socket.IO · EJS · JavaScript · Leaflet
+A fleet management dashboard that tracks driver locations and manages deliveries in real time.
 
-🔗 [View Repository](https://github.com/ananyasri20/Trackflow-realtime_tracker)
+- 📍 Live GPS tracking with Leaflet
+- ⚡ Real-time communication using Socket.IO
+- 📦 Delivery creation and status management
+- 📊 Dashboard statistics and driver monitoring
 
-### 2. Eventora – Full-Stack Event Booking Platform
+**Built with:** Node.js, Express.js, Socket.IO, EJS, JavaScript, Leaflet
 
-A MERN-stack web application for event discovery and booking with authentication and administration features.
+<a href="https://github.com/ananyasri20/Trackflow-realtime_tracker">View Repository →</a>
 
-- Implemented JWT authentication, OTP verification, and role-based access control.
-- Developed REST APIs and CRUD operations for application features.
-- Built an admin dashboard and automated email notifications using Nodemailer.
+</td>
+<td width="50%" valign="top">
 
-**Tech Stack:** React.js · JavaScript · Node.js · Express.js · MongoDB · Tailwind CSS · JWT
+### 🎟️ Eventora
 
-🌐 [Live Demo](https://eventora-fnn2.onrender.com/)
+**Full-Stack Event Booking Platform**
+
+A MERN-based application for event booking with authentication and administration features.
+
+- 🔐 JWT authentication and OTP verification
+- 👥 Role-based access control
+- 🔄 REST APIs and CRUD operations
+- 📧 Automated email notifications
+- 🛠️ Admin dashboard
+
+**Built with:** React, Node.js, Express.js, MongoDB, Tailwind CSS
+
+<a href="https://eventora-fnn2.onrender.com/">Live Demo →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ananyasri20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ananya's GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyasri20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ananyasri20&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyasri20&theme=tokyonight" width="95%" alt="GitHub Contribution Summary"/>
+
+</div>
 
 ---
 
@@ -79,7 +140,7 @@ A MERN-stack web application for event discovery and booking with authentication
 **Full-Stack Development Intern | Infosys Springboard**  
 *November 2025 – February 2026*
 
-- Developed 10+ responsive React.js components for the SkillBridge platform.
+- Developed 10+ responsive React.js components for SkillBridge.
 - Integrated REST APIs, JWT authentication, and MongoDB CRUD operations.
 - Collaborated with a four-member Agile team using Git and GitHub.
 
@@ -87,19 +148,25 @@ A MERN-stack web application for event discovery and booking with authentication
 
 ## 🎓 Education
 
-**B.Tech – Computer Science & Engineering**  
+**B.Tech in Computer Science & Engineering**  
 Babu Banarasi Das Engineering College, Lucknow  
 2022–2026 | CGPA: 7.82
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-- 📧 Email: [ananyasri2044@gmail.com](mailto:ananyasri2044@gmail.com)
-- 💻 GitHub: [ananyasri20](https://github.com/ananyasri20)
-- 🔗 LinkedIn: Add your LinkedIn profile URL here
-- 🌐 Portfolio: Add your portfolio URL here
+<div align="center">
 
----
+<a href="https://github.com/ananyasri20">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="mailto:ananyasri2044@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-⭐ *I'm always eager to learn, build, and collaborate on meaningful software projects.*
+### 💜 Thanks for visiting my profile!
+
+⭐ *Feel free to explore my repositories and connect with me.*
+
+</div>
