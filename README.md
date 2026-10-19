@@ -43,7 +43,7 @@ I'm a Computer Science graduate who enjoys building responsive web applications,
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,python,cpp" alt="Java, JavaScript, Python and C++"/>
+<img src="https://skillicons.dev/icons?i=js,python,cpp" alt="JavaScript, Python and C++"/>
 
 ### Frontend Development
 
@@ -150,7 +150,7 @@ A MERN-based application for event booking with authentication and administratio
 
 **B.Tech in Computer Science & Engineering**  
 Babu Banarasi Das Engineering College, Lucknow  
-2022–2026 | CGPA: 7.82
+2022–2026
 
 ---
 
